@@ -197,7 +197,7 @@ int main()
 			shader.use();
 			VAO.Bind();
 			GLCALL(glDrawElements(GL_TRIANGLES, EBO.GetCount(), GL_UNSIGNED_INT, 0));
-
+			
 			// Update deltatime
 			dt = (float)glfwGetTime() - initTime;
 			initTime = (float)glfwGetTime();
