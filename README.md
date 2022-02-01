@@ -1,4 +1,4 @@
-# 1D_Perlin_Terrain_Generator
+# 1D Perlin Noise Terrain Generator
 
 Small demo that generates a terrain using a 1D Perlin Noise Generator.
 
